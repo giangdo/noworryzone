@@ -1,0 +1,6 @@
+* should add ohm register to prevent band from being cut.
+   -> when this band is wear completely -> we specify register value and remember this.
+      -> If register of band is changed
+         -> it mean band was cut or was move from child's hand
+            -> notification will be sent to their parent .
+
