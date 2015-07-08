@@ -15,3 +15,5 @@ http://www.networkworld.com/article/2170751/tech-primers/location-based-wi-fi-se
 
 * best idea:
 http://www.networkworld.com/article/2170751/tech-primers/location-based-wi-fi-services-can-add-immediate-value-to-wi-fi-deployments.html
+
+*http://www.instructables.com/id/Distance-measurement-with-radio-waves/step5/Step-5-Schematic/ 
